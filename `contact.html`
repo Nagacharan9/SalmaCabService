@@ -1,0 +1,21 @@
+<html>
+<head>
+  <title>Contact - Salma Cabs</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Contact Us</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="booking.html">Book a Cab</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <p>Email: support11@salmacabs.com</p>
+    <p>Phone: ‪+91-8919699221‬</p>
+  </main>
+</body>
+</html>
